@@ -1,4 +1,4 @@
-const DynamicCrudEndpoint = require('./crud');
+const DynamicCrudEndpoint = require('./crud2');
 
 const app = new DynamicCrudEndpoint();
 app.setupEndpoints('Aniversariantes');
